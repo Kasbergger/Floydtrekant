@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611748915 source:c:\users\skole\documents\htx\fag\programering - b\1. g programering\fodbold\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
