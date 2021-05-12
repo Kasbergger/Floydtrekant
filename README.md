@@ -15,5 +15,3 @@ Lært:
 	At bruge loops, variabler og funktioner.
 	At lave en floyds trekant
   
-
-© 2021 GitHub, Inc.
